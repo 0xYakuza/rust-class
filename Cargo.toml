@@ -3,6 +3,7 @@ name = "rust_class"
 description = "Class in rust"
 readme = "README.md"
 homepage = "https://github.com/AzerothA/rust-class"
+license-file = "./LICENCE"
 version = "0.1.0"
 edition = "2018"
 
