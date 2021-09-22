@@ -1,6 +1,8 @@
 # rust-class
 Class in rust
 
+[Documentation](https://docs.rs/rust_class/0.1.0)
+
 # Example usage
 ```rust
 #[macro_use]
